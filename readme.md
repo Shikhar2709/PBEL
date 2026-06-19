@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is a branch of computer science that focuses on developing machines and software capable of performing tasks that normally require human intelligence. These tasks include learning from experience, reasoning, problem-solving, understanding natural language, recognizing patterns, and making decisions.
+
+AI systems use data, algorithms, and computing power to analyze information and improve their performance over time. Modern AI technologies such as machine learning and deep learning enable computers to learn from large datasets and make predictions or decisions without being explicitly programmed for every situation.
+
+AI is widely used in various fields, including healthcare, education, finance, transportation, entertainment, and cybersecurity. Examples of AI applications include virtual assistants, recommendation systems, chatbots, facial recognition, language translation, and autonomous vehicles.git 
